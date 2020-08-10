@@ -6,7 +6,7 @@
 * 进入 qq-com 运行 server.js
 `cd kuayu-1/qq-com; node-dev server.js 8888`
 * 进入 frank-com 运行 server.js
-`cd ../frank-com; node-dev server.js 9999`
+`cd ../jerry-com; node-dev server.js 9999`
 ## 设置 hosts
 ```
 127.0.0.1 qq.com
