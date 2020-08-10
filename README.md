@@ -5,7 +5,7 @@
 `https://github.com/kongyi5/kuayu-1.git`
 * 进入 qq-com 运行 server.js
 `cd kuayu-1/qq-com; node-dev server.js 8888`
-* 进入 frank-com 运行 server.js
+* 进入 jerry-com 运行 server.js
 `cd ../jerry-com; node-dev server.js 9999`
 ## 设置 hosts
 ```
